@@ -3,6 +3,6 @@
   "versionName": "2.12.0",
   "mandatory": true,
   "minVersionCode": 1,
-  "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/v2.12.0/Otschet.apk",
+  "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/app/Otschet.apk",
   "changelog": "Несколько заметок на один день, удаление каждой заметки отдельно, ввод минуса в копилке."
 }
