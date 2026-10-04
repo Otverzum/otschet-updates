@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "2.13.0",
+  "versionCode": 36,
+  "versionName": "2.14.0",
   "mandatory": true,
   "minVersionCode": 35,
   "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/app/Otschet.apk",
-  "changelog": "Проверка обновлений при открытии приложения и раз в 3 часа; обязательное обновление блокирует приложение и без интернета."
+  "changelog": "Выбор иконки приложения в настройках (7 вариантов); проверка обновлений при открытии приложения и раз в 3 часа."
 }
