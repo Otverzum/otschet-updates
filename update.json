@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "2.11.0",
+  "versionCode": 33,
+  "versionName": "2.12.0",
   "mandatory": true,
   "minVersionCode": 1,
-  "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/v2.11.0/Otschet.apk",
-  "changelog": "Исправлены Копилка и Калькулятор, новые кнопки, обновление прямо в приложении."
+  "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/v2.12.0/Otschet.apk",
+  "changelog": "Несколько заметок на один день, удаление каждой заметки отдельно, ввод минуса в копилке."
 }
