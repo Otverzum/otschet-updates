@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
+  "versionCode": 55,
   "versionName": "4.0.6",
-  "minVersionCode": 54,
+  "minVersionCode": 55,
   "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/app/Otschet.apk",
   "changelog": "Новый код резервных копий: 16 цифр (4×4). При первом запуске приложение покажет его — скопируйте или сделайте скриншот. Этим кодом защищены и автоматические, и ручные копии. Сменить его можно в настройках: сначала вводится старый, потом новый. Копии прежних версий по-прежнему открываются старым паролем.",
   "changelogI18n": {
