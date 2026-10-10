@@ -1,8 +1,13 @@
 {
-  "versionCode": 44,
-  "versionName": "3.0.0",
-  "mandatory": true,
-  "minVersionCode": 44,
+  "versionCode": 54,
+  "versionName": "4.0.6",
+  "mandatory": false,
+  "minVersionCode": 54,
   "downloadUrl": "https://github.com/Otverzum/otschet-updates/releases/download/app/Otschet.apk",
-  "changelog": "Новая защита. PIN теперь из 6 цифр: при первом входе со старым 4-значным кодом приложение попросит задать новый. Если забыли код, нажмите «Забыли пароль?»: войти можно по прежнему PIN или по кодовому слову, которое теперь можно менять внутри отсчёта. После неверных вводов доступ блокируется на растущее время, от 10 секунд до суток. Отсчёт сам закрывается при сворачивании приложения, а на экранах с PIN скриншоты отключены. Исправлен расчёт «в неделю» и «в месяц» в калькуляторе. Обновите приложение, чтобы продолжить пользоваться."
+  "changelog": "Новый код резервных копий: 16 цифр (4×4). При первом запуске приложение покажет его — скопируйте или сделайте скриншот. Этим кодом защищены и автоматические, и ручные копии. Сменить его можно в настройках: сначала вводится старый, потом новый. Копии прежних версий по-прежнему открываются старым паролем.",
+  "changelogI18n": {
+    "en": "New backup code: 16 digits (4×4). The app shows it on first launch — copy it or take a screenshot. It protects both automatic and manual backups. You can change it in settings: enter the old code first, then the new one. Backups from older versions still open with their old password.",
+    "de": "Neuer Sicherungscode: 16 Ziffern (4×4). Die App zeigt ihn beim ersten Start – kopieren Sie ihn oder machen Sie einen Screenshot. Er schützt automatische und manuelle Sicherungen. In den Einstellungen lässt er sich ändern: erst den alten, dann den neuen Code eingeben. Sicherungen älterer Versionen lassen sich weiterhin mit dem alten Passwort öffnen.",
+    "es": "Nuevo código de copias: 16 dígitos (4×4). La app lo muestra en el primer inicio: cópialo o haz una captura. Protege las copias automáticas y manuales. Puedes cambiarlo en los ajustes: primero el antiguo y luego el nuevo. Las copias de versiones anteriores siguen abriéndose con su contraseña antigua."
+  }
 }
